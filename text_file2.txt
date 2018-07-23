@@ -1,2 +1,4 @@
-i am a text file.
+Hi, i am a text file
 lets learn github
+
+
